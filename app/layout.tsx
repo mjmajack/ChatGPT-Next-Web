@@ -7,7 +7,7 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "ChatGPT Next Web",
+  title: "为更好体验，请添加客服微信DaAi0991",
   description: "Your personal ChatGPT Chat Bot.",
   viewport: {
     width: "device-width",
